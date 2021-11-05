@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "parcel": "^2.0.0"
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
   }
 }
